@@ -1,0 +1,40 @@
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\bin\Debug\棋子.exe.config
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\bin\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\bin\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.Form1.resources
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\棋子\棋子\obj\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\bin\Debug\棋子.exe.config
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\bin\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\bin\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.Form1.resources
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\棋子 - 複製\棋子\obj\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\bin\Debug\棋子.exe.config
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\bin\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\bin\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.Form1.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 複製\棋子\obj\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\bin\Debug\棋子.exe.config
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\bin\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\bin\Debug\棋子.pdb
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.Form1.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.exe
+C:\Users\Typhoon\Desktop\專案\已完成專案\旗子專案\棋子 - 完成\棋子\obj\Debug\棋子.pdb
